@@ -1,0 +1,16 @@
+{
+  "name": "Toast Me",
+  "version": "1.1",
+  "description":
+    "Displays a desktop notifications every hour and half hour with an inspirational quote 💖",
+  "icons": {"16": "16.png", "48": "48.png", "128": "128.png"},
+  "permissions": [
+    "notifications"
+  ],
+  "options_page": "options.html",
+  "background": { "scripts": ["background.js"] },
+  "manifest_version": 2,
+  "web_accessible_resources": [
+    "48.png"
+  ]
+}
