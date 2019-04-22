@@ -1,4 +1,5 @@
 const quotes = [
+  `Do not discourage yourself with what you haven't done, encourage yourself with what you will do`,
   `Love the life you live. Live the life you love.`,
   `To be yourself in a world that is constantly trying to make you one of them is life's greatest accomplishment.`,
   `Failure is not the opposite of Success. It is the sole ingredient of Success`,
